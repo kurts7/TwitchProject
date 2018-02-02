@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name='yandex-verification' content='65da4973dc5abed5' />
+	<title>Профиль — «Twitch Master»</title>
+	<link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link rel="stylesheet" href="../css/style.css" />
+	<script src="../js/jquery-1.11.2.min.js"></script>
+	<script src="../js/index.js"></script>
+</head>
+<body>
+	<div class="wrapper">
+		<div class="container">
+			<div class="header">
+				<div class="logo f-left">
+					<div class="beta">бета</div>
+					<a href="../default.htm"><img src="../i/logo.png" alt="Twitch Master"></a><div class="slogan">бесплатная раскрутка стримов на Twitch.tv</div>
+				</div>
+				<div class="links f-right">
+					<span class="menu-icon hidden"></span><span class="menu-content"><a href="about">О системе</a><span class="separator">|</span><a href="default.htm" class="menu-popup">ilk7</a><ul class="menu-popup-container hidden"><li><a href="profile">Профиль</a></li><li><a href="../ilk7">Мой канал</a></li><li><a href="../rating">Рейтинг</a></li><li class="separator"></li><li><a href="../loto">Лотерея</a></li><li class="separator"></li><li><a href="../@logout">Выход</a></li></ul></span>				</div>
+				<div class="search f-right">
+					<form action="/search" method="get">
+						<input placeholder="Поиск" type="text" name="t" maxlength="20"><div class="form-submitter"></div>
+					</form>
+				</div>
+				<div class="clear"></div>
+			</div>
+		<div class="content-left">
+			<div class="block">
+				<h1 class="title">Профиль</h1>
+				<div class="title-trigger"><a href="profile">Промо</a><a href="profile@t=2">Поднятие</a><a href="profile@t=3">Настройки</a><a href="profile@t=4" class="current">Партнерская программа</a></div>				<div class="warning">
+					<div class="mini-channels-list with-right-cell no-padding">
+						<div class="items">
+							<div class="logo">
+								<a href="../ilk7"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/ilk7-profile_image-9f763a43d9b32d16-300x300.jpeg"></a>
+							</div>
+							<div class="name">
+								<a href="../ilk7">ilk7</a>								<div class="coward">играет в <a href="../games/Dota%202">Dota 2</a></div>
+							</div>
+							<div class="f-right right">
+								<div class="user-rating-num-and-stars">
+									<b>47 TMR</b>
+									<div class="user-rating-stars"><span class="star-1"></span><span class="star-1"></span></div>								</div>
+							</div>
+							<div class="clear"></div>
+						</div>
+					</div>
+				</div>
+				
+								
+								
+																					<div class="block">
+						<h2 class="title">Партнерская программа</h2>
+						<p>Привлекайте новых пользователей на  «Twitch Master», используя свою реферальную ссылку, и получайте <b>5%</b> со всех заработанных ими кредитов (включая доход, принесенный их собственными рефералами)!</p>
+						<div class="placeholder">Ваша реферальная ссылка</div>
+						<input class="big red select-all" type="text" value="http://twitchmaster.ru/?ref=1GjiuuDvOBwhyKFMuSJ8">
+						<h2 class="margin-top-a-bit">Список ваших рефералов</h2><div class="warning">У вас еще нет реферальных отчислений.</div>					</div>
+							</div>
+		</div>
+		<div class="sidebar-right">
+			<div class="block">
+				<h2 class="title">Мои кредиты</h2>
+				<div class="center bc-cont">
+																										<div class="big-credits">1,046,336.06</div>
+																							<div class="coward">кредитов</div>
+				</div>
+				<div class="white-bg-with-border center">
+					<div class="coward">Ваша трансляция продвигается только при положительном балансе кредитов.</div>
+					<div class="pre-submit"></div>
+					<a class="cool-button" href="#buy-credits">Купить кредиты</a><a class="cool-button additional" href="about#how-to-earn-credits">Заработать</a>
+				</div>
+			</div>
+			
+												<div class="block" id="get-daily-bonus">
+				<h2 class="title">Ежедневный бонус</h2>
+				<div class="warning-2 center">
+					<div class="coward">С каждым днем вы будете получать все больше бонусных кредитов.</div>
+																					<form action="/static/profile" method="post">
+									<input type="hidden" name="get_daily_bonus" value="b7bdf013002accf1a3af2f512289a1ca">
+									<div class="pre-submit"></div>
+									<div class="cool-button alternative form-submitter">Получить бонус<span class="in-button credits">15,000</span></div>
+								</form>
+																		<p class="coward margin-top-a-bit"><a href="about#daily-bonus">подробнее о ежедневном бонусе</a></p>
+				</div>
+			</div>
+			
+							<div class="block center coward" id="vip-card">
+					<a href="default.htm" class="ajax-popup" ajax_file="get-vip-card.php" closeable="true"><img src="../i/vip-banner.png" width="300"></a>
+								<p class="coward margin-top-a-bit"><a href="about/#vip-club">подробнее о VIP-клубе</a></p>
+				</div>
+			<div class="block" id="buy-credits">
+				<h2 class="title">Купить кредиты</h2>
+				<p class="coward">Вы всегда можете пополнить баланс кредитов, выбрав подходящий тариф:</p>
+				<table cellspacing="0" cellpadding="0" class="cool-table">
+				<tr>
+					<th>Кредиты</th>
+					<th>Стоимость</th>
+				</tr>
+				
+					<tr>
+						<td class="right">25,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="1">Купить<span class="in-button">45.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">50,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="2">Купить<span class="in-button">85.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">100,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="3">Купить<span class="in-button">175.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">200,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="4">Купить<span class="in-button">325.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">500,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="5">Купить<span class="in-button">725.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">1,000,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="6">Купить<span class="in-button">1295.9 <span class="rub">Р</span></a></td>
+					</tr>
+					
+					<tr>
+						<td class="right">3,000,000.00<span class="credits-icon"></span></td>
+						<td><a class="cool-button ajax-popup" ajax_file="buy-credits-form.php" closeable="true" params="7">Купить<span class="in-button">3595.9 <span class="rub">Р</span></a></td>
+					</tr>
+									</table>
+			</div>
+		</div>
+		<div class="clear"></div>		</div>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="f-left copy">
+				«Twitch Master» — бесплатная раскрутка стримов на Twitch.tv.<br/>
+				&copy; 2017 Все права защищены.<br/><br/>
+				<a href="../default.htm"><img src="../i/logo-mini.png"></a>
+								<p class="margin-top-a-bit">Зарегистрировано 7,099 пользователей.</p>
+				<!-- Yandex.Metrika informer --> <a href="../../https@metrika.yandex.ru/stat/@id=34204965&from=informer" target="_blank" rel="nofollow"><img src="../../https@informer.yandex.ru/informer/34204965/3_1_ECECECFF_CCCCCCFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:34204965,lang:'ru'});return false}catch(e){}" /></a>  <!-- /Yandex.Metrika informer -->
+				<a href="../../https@firstvds.ru/@from=492683"><img src="../i/1vds.png"></a>
+			</div>
+			<div class="f-right developer right">
+				Техподдержка: <a href="mailto:twitchmaster.ru@gmail.com">twitchmaster.ru@gmail.com</a>
+				<div class="share">Поделиться: <script type="text/javascript" src="../../yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../../yastatic.net/share2/share.js" charset="utf-8"></script>
+<div class="ya-share2" data-services="facebook,gplus,twitter,vkontakte,lj" data-size="s"></div></div>
+				<a href="../../makeasite.ru/default.htm" title="Студия веб-дизайна «Make a site»"><img src="../i/makeasite-logo-white.png" alt="Студия веб-дизайна «Make a site»" height="32"></a>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	 <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter34204965 = new Ya.Metrika({ id:34204965, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="../../https@mc.yandex.ru/watch/34204965" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>

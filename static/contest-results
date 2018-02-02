@@ -1,0 +1,621 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<meta name='yandex-verification' content='65da4973dc5abed5' />
+	<title>Результаты розыгрышей «Минута славы» — «Twitch Master»</title>
+	<link href="../favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<link rel="stylesheet" href="../css/style.css" />
+	<script src="../js/jquery-1.11.2.min.js"></script>
+	<script src="../js/index.js"></script>
+</head>
+<body>
+	<div class="wrapper">
+		<div class="container">
+			<div class="header">
+				<div class="logo f-left">
+					<div class="beta">бета</div>
+					<a href="../default.htm"><img src="../i/logo.png" alt="Twitch Master"></a><div class="slogan">бесплатная раскрутка стримов на Twitch.tv</div>
+				</div>
+				<div class="links f-right">
+					<span class="menu-icon hidden"></span><span class="menu-content"><a href="about">О системе</a><span class="separator">|</span><a href="default.htm" class="menu-popup">ilk7</a><ul class="menu-popup-container hidden"><li><a href="profile">Профиль</a></li><li><a href="../ilk7">Мой канал</a></li><li><a href="../rating">Рейтинг</a></li><li class="separator"></li><li><a href="../loto">Лотерея</a></li><li class="separator"></li><li><a href="../@logout">Выход</a></li></ul></span>				</div>
+				<div class="search f-right">
+					<form action="/search" method="get">
+						<input placeholder="Поиск" type="text" name="t" maxlength="20"><div class="form-submitter"></div>
+					</form>
+				</div>
+				<div class="clear"></div>
+			</div>
+		<div class="content-left">
+			<div class="block">
+				<h1 class="title">Результаты розыгрышей «Минута славы»</h1>
+				<p>Ниже представлен список победителей недавних ежедневных розыгрышей «Минута славы».</p>
+				<div class="mini-channels-list">
+			<div class="item">
+				<div class="logo">
+					<a href="../drgamersstream"><img src="../i/nophoto.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drgamersstream">DRgamersstream</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 13.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../kofyeintv"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/kofyeintv-profile_image-97f6ed62eb3025ac-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../kofyeintv">KofyeinTV</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 12.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../naoki_12"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/naoki_12-profile_image-097edf8a422d6eb8-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../naoki_12">NAOKI_12</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 11.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../onooborak"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/onooborak-profile_image-b6c5bcf5ee6d0988-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../onooborak">onooborak</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 10.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 09.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../elec58"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/elec58-profile_image-dffa4ba6b8b96382-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../elec58">elec58</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 08.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../taykonfm"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/taykonfm-profile_image-64ef17d94fcbdef1-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../taykonfm">taykonfm</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 07.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../simbagletsplay"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/simbagletsplay-profile_image-8d63286f21b7db13-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../simbagletsplay">simbagletsplay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 06.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../sovenok_sadist"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/sovenok_sadist-profile_image-352d7f2938c7adb3-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../sovenok_sadist">Sovenok_Sadist</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 05.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../elec58"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/elec58-profile_image-dffa4ba6b8b96382-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../elec58">elec58</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 04.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../matrixmanson"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/matrixmanson-profile_image-0fbc2f48705a4bdf-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../matrixmanson">MaTriXManSon</a>
+					<div class="coward">выиграл 03.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../simbagletsplay"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/simbagletsplay-profile_image-8d63286f21b7db13-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../simbagletsplay">simbagletsplay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 02.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../noobpsyduck"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/noobpsyduck-profile_image-f5abe6442da8490e-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../noobpsyduck">noobpsyduck</a>
+					<div class="coward">выиграл 01.03.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 28.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 27.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../mo0nlight112"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/mo0nlight112-profile_image-fc4fad063952c42e-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../mo0nlight112">Mo0nlight112</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 26.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 25.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../mo0nlight112"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/mo0nlight112-profile_image-fc4fad063952c42e-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../mo0nlight112">Mo0nlight112</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 24.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 23.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 22.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../mpaktv"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/mpaktv-profile_image-1e54ec24abef28b1-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../mpaktv">MpakTV</a>
+					<div class="coward">выиграл 21.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 20.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../play_and_smile"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/play_and_smile-profile_image-77620582fabd4df8-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../play_and_smile">PLAY_AND_SMILE</a>
+					<div class="coward">выиграл 19.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 18.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../timbourine"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/timbourine-profile_image-38434b6308c902e2-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../timbourine">timbourine</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 17.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vinsentvh"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vinsentvh-profile_image-7e487b0e772b8079-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../vinsentvh">VinsentVH</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 16.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../mo0nlight112"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/mo0nlight112-profile_image-fc4fad063952c42e-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../mo0nlight112">Mo0nlight112</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 15.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vinsentvh"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vinsentvh-profile_image-7e487b0e772b8079-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../vinsentvh">VinsentVH</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 14.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../playboy007_2185"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/playboy007_2185-profile_image-753f4610388ad1f1-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../playboy007_2185">PlayBoy007_2185</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 13.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../enotgameschannel"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/enotgameschannel-profile_image-0a95aa1772305542-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../enotgameschannel">EnotGamesChannel</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 12.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../thomson72"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/thomson72-profile_image-1cfbe07b3f81d0e7-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../thomson72">Thomson72</a>
+					<div class="coward">выиграл 11.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 10.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../thomson72"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/thomson72-profile_image-1cfbe07b3f81d0e7-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../thomson72">Thomson72</a>
+					<div class="coward">выиграл 09.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../enotgameschannel"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/enotgameschannel-profile_image-0a95aa1772305542-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../enotgameschannel">EnotGamesChannel</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 08.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 07.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../noobpsyduck"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/noobpsyduck-profile_image-f5abe6442da8490e-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../noobpsyduck">noobpsyduck</a>
+					<div class="coward">выиграл 06.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../reversiout"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/reversiout-profile_image-9f8742ca885fe64a-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../reversiout">Reversiout</a>
+					<div class="coward">выиграл 05.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../lanalamp"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/lanalamp-profile_image-1733ec39b788d73a-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../lanalamp">lanalamp</a>
+					<div class="coward">выиграл 04.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 03.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../getovmyhit"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/getovmyhit-profile_image-5dc86588dc4c90ac-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../getovmyhit">GetOvMyHit</a>
+					<div class="coward">выиграл 02.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vinsentvh"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vinsentvh-profile_image-7e487b0e772b8079-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../vinsentvh">VinsentVH</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 01.02.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../mocbka34"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/mocbka34-profile_image-9286d19ffb8661aa-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../mocbka34">MoCbka34</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 31.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../noobpsyduck"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/noobpsyduck-profile_image-f5abe6442da8490e-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../noobpsyduck">noobpsyduck</a>
+					<div class="coward">выиграл 30.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../drkiray"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/drkiray-profile_image-e3ff91bcec5e2422-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../drkiray">drkiRay</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 29.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../noobpsyduck"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/noobpsyduck-profile_image-f5abe6442da8490e-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../noobpsyduck">noobpsyduck</a>
+					<div class="coward">выиграл 28.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../meafq"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/meafq-profile_image-ec7240b7d3caa255-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../meafq">MeafQ</a>
+					<div class="coward">выиграл 27.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vinsentvh"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vinsentvh-profile_image-7e487b0e772b8079-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../vinsentvh">VinsentVH</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 26.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../playboy007_2185"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/playboy007_2185-profile_image-753f4610388ad1f1-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../playboy007_2185">PlayBoy007_2185</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 25.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vital_crisp"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vital_crisp-profile_image-1b283a68bcf1ec30-300x300.png"></a>
+				</div>
+				<div class="name">
+					<a href="../vital_crisp">Vital_Crisp</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 24.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			
+			<div class="item">
+				<div class="logo">
+					<a href="../vinsentvh"><img src="../../https@static-cdn.jtvnw.net/jtv_user_pictures/vinsentvh-profile_image-7e487b0e772b8079-300x300.jpeg"></a>
+				</div>
+				<div class="name">
+					<a href="../vinsentvh">VinsentVH</a><a href="about#vip-club" title="Золотая VIP-карта"><span class="vip-person-icon vip-1"></span></a>
+					<div class="coward">выиграл 23.01.2017</div>
+				</div>
+				<div class="clear"></div>
+			</div>
+			</div>			</div>
+		</div>
+		<div class="sidebar-right">
+						
+					<div class="block">
+						<div class="center banner">
+							<p><b>Наша группа ВК: все об играх и стримах, а также конкурсы и тайные акции!</b></p>
+							<a href="../../https@vk.com/twitchm" rel="nofollow" target="_blank"><img src="../i/streamer-icon.png"></a><br/>
+							<a href="../../https@vk.com/twitchm" rel="nofollow" target="_blank" class="cool-button margin-top-a-bit">Вступить в группу!</a>
+						</div>
+					</div>
+							</div>
+		<div class="clear"></div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="f-left copy">
+				«Twitch Master» — бесплатная раскрутка стримов на Twitch.tv.<br/>
+				&copy; 2017 Все права защищены.<br/><br/>
+				<a href="../default.htm"><img src="../i/logo-mini.png"></a>
+								<p class="margin-top-a-bit">Зарегистрировано 7,099 пользователей.</p>
+				<!-- Yandex.Metrika informer --> <a href="../../https@metrika.yandex.ru/stat/@id=34204965&from=informer" target="_blank" rel="nofollow"><img src="../../https@informer.yandex.ru/informer/34204965/3_1_ECECECFF_CCCCCCFF_0_pageviews" style="width:88px; height:31px; border:0;" alt="Яндекс.Метрика" title="Яндекс.Метрика: данные за сегодня (просмотры, визиты и уникальные посетители)" onclick="try{Ya.Metrika.informer({i:this,id:34204965,lang:'ru'});return false}catch(e){}" /></a>  <!-- /Yandex.Metrika informer -->
+				<a href="../../https@firstvds.ru/@from=492683"><img src="../i/1vds.png"></a>
+			</div>
+			<div class="f-right developer right">
+				Техподдержка: <a href="mailto:twitchmaster.ru@gmail.com">twitchmaster.ru@gmail.com</a>
+				<div class="share">Поделиться: <script type="text/javascript" src="../../yastatic.net/es5-shims/0.0.2/es5-shims.min.js" charset="utf-8"></script>
+<script type="text/javascript" src="../../yastatic.net/share2/share.js" charset="utf-8"></script>
+<div class="ya-share2" data-services="facebook,gplus,twitter,vkontakte,lj" data-size="s"></div></div>
+				<a href="../../makeasite.ru/default.htm" title="Студия веб-дизайна «Make a site»"><img src="../i/makeasite-logo-white.png" alt="Студия веб-дизайна «Make a site»" height="32"></a>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+	 <!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter34204965 = new Ya.Metrika({ id:34204965, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://mc.yandex.ru/metrika/watch.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="../../https@mc.yandex.ru/watch/34204965" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+</body>
+</html>
